@@ -13,5 +13,5 @@ The 'Sakila DVD Rental Database Querries' project is about subjecting a Database
 dvdrental_Database file
 
 ### Credits
-Udacity, Hackerrank, Tableau
+Udacity, Hackerrank, Tableau, PostgreSQL
 
